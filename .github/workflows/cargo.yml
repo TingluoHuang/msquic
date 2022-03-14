@@ -21,5 +21,5 @@ jobs:
     - name: Cargo build
       run: cargo build --all
     - name: Cargo test
-      run: cargo test --all -v
+      run: cargo test --all
 
